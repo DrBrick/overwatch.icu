@@ -4239,7 +4239,7 @@ tbody.collapse.show {
     left: auto;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0.5rem;
+    padding-right: 1.5rem;
     padding-left: 0.5rem;
   }
   .navbar-expand-lg > .container,
@@ -9044,6 +9044,7 @@ body {
   font-size: 30px;
   font-weight: 600;
   letter-spacing: 1px;
+  margin-left: 15px;
 }
 
 @media (max-width: 992px) {
